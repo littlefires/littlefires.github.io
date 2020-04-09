@@ -3,7 +3,7 @@ layout: post
 title: "A loaf of bread"
 date: 2020-04-09
 tags: [food]
-license: ""CC BY"
+license: "CC BY"
 ---
 
 *(Cross-posted from [https://readywriting.org/bread/](https://readywriting.org/bread).)*

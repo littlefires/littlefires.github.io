@@ -6,6 +6,8 @@ tags: [food]
 license: "CC BY"
 ---
 
+![A loaf of bread]({{site.baseurl}}/assets/img/bread.jpg)
+
 *(Cross-posted from [https://readywriting.org/bread/](https://readywriting.org/bread).)*
 
 There are so many things I didn't think I'd ever do. I wear makeup now (yes, now, even today, because I paid for it, damn it) in part because my daughter became obsessed with it (and because she dances, so performance makeup). I prefer dresses now (because, in part, it's easier to just pick one piece of clothing than to match two separate pieces, and also because work-approved nightgown). My friends from HS and university would be laughing at future me right now because past me was adamantly against those two things (it was the 1990s, so when we did wear dresses and makeup out, we did so ironically).

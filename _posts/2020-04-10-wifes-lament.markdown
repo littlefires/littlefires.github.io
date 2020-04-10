@@ -21,4 +21,6 @@ May it be a tribute to all those feeling enclosed and overwhelmed. I hope respit
 
 Block and drying arrangement for scale.
 
+Credit: Amy Jeffs / [@amy_historia](https://twitter.com/amy_historia)
+
 {% if page.license %}license: {{ page.license }} {% endif %}

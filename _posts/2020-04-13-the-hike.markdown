@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The Hike"
+date: 2020-04-13
+tags: [LEGO, stop-motion, animation]
+license: "CC-BY"
+---
+
+<iframe src="https://player.vimeo.com/video/406254806" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+Credit: [Abby Mullen](https://twitter.com/@abbymullen) and Maggie Mullen
+
+{% if page.license %}license: {{ page.license }} {% endif %}

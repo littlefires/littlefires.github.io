@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Vest"
+date: 2020-04-14
+tags: [vest, knitting, textiles]
+license:
+---
+
+![photo of blue knitted vest]({{site.baseurl}}/assets/img/2020-04-14-vest.jpg)
+
+I always wondered how productive I would be if I shut myself off in a room with some projects. Now I get to find out. I started this project the same week we entered into quarantine and it's done already. This is one of the largest single projects I've ever completed.
+
+When measuring the length of your project, make sure the fabric is lying flat without any stretch. Had to pick up and add an additional inch to the back piece since it was an inch shorter. The piece is completed now and ready for its first wash.
+
+This vest took 3 and a half weeks of quarantine to complete. Kept having to stop because it was making my fingertips sore to knit so much.
+
+Credit: Marie
+
+{% if page.license %}license: {{ page.license }} {% endif %}

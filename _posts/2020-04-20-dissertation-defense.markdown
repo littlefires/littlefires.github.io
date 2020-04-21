@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Dissertation Defense"
-date: 2020-04-18
+date: 2020-04-20
 tags: [virtual defense, dissertation]
 license:
 ---
-![screenshot from my oral defense]({{site.baseurl}}/assets/img/navigating-the-deliberative-system.jpeg)
+![screenshot from my oral defense]({{site.baseurl}}/assets/img/navigating-the-deliberative-system.png)
 
 On April 10, 2020, I defended my doctoral dissertation, *Reasoning Together: Network Methods for Political Talk and Normative Reasoning*.
 

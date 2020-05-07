@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data-Sitters Public Health Tips"
+title: "Data-Sitters Club Public Health Tips"
 date: 2020-05-07
 tags: [coronavirus, covid-19, art]
 license: 
